@@ -1,0 +1,1 @@
+Pequeno projeto desenvolvido para estudo do SASS.
